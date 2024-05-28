@@ -4,7 +4,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 $(call inherit-product, device/htc/aceopt/device.mk)
 
 PRODUCT_DEVICE := aceopt
-PRODUCT_NAME := cm_aceopt
+PRODUCT_NAME := lineage_aceopt
 PRODUCT_BRAND := htc_wwe
 PRODUCT_MODEL := Desire HD
 PRODUCT_MANUFACTURER := HTC
